@@ -1,0 +1,3 @@
+[submodule "git-course-test"]
+	path = git-course-test
+	url = https://github.com/rmylonas/git-course-test.git
